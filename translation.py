@@ -3,6 +3,7 @@ class Translation(object):
 This is a Telegram Rename Bot!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
+Join @animeovaonaoad & @Anime_Series_MV for anime.
 
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."

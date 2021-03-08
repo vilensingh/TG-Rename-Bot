@@ -4,15 +4,13 @@ This is a Telegram Rename Bot!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 Join @animeovaonaoad & @Anime_Series_MV for Anime.
-
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     DOWNLOAD_START = "Downloading..."
     UPLOAD_START = "Uploading...."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓. 
-Join @animeovaonaoad & @Anime_Series_MV for anime.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓. Join @animeovaonaoad & @Anime_Series_MV for anime.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
@@ -31,7 +29,8 @@ Join @animeovaonaoad & @Anime_Series_MV for anime.**"
 Anime Channels: @Anime_Series_MV | @animeovaonaoad 
 
 -----------------
-Owner: @Vilen_Singh"""
+Owner: @Vilen_Singh
+"""
    
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
